@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Charles%20Lindecker&animation=fadeIn&color=gradient&height=120" alt="Banner">
-</p>
-
 ## 👋 Charles Lindecker  
 **Full-Stack Developer** / **Développeur Full-Stack**  
 
@@ -48,16 +44,9 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 <!-- Exemple de cartes de stats — adapte le username à “Shirou2420” ou à ton nom d’utilisateur GitHub actuel -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shirou2420&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirou2420&layout=compact&theme=dark&hide_border=true" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=LINDECKER-Charles&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LINDECKER-Charles&layout=compact&theme=dark&hide_border=true" alt="Top Langs">
 </p>
-
-> ⚠️ Si ces liens ne fonctionnent pas (erreur ou rendu vide), vérifie :  
->  • que le nom d’utilisateur GitHub est correct,  
->  • que le service *github-readme-stats* est en ligne,  
->  • que les URLs sont bien formatées (pas de `\&`, juste `&`).  
-
-Tu peux aussi héberger ta propre instance de Github-readme-stats ou utiliser des alternatives (actions GitHub, services SVG personnalisés, etc.).  
 
 ---
 
@@ -72,6 +61,7 @@ Tu peux aussi héberger ta propre instance de Github-readme-stats ou utiliser de
 
 ### 🎯 Citation favorite  
 
-> “Simplicity is the soul of efficiency.” — Austin Freeman
+> “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — Aristotle
+(Nous sommes ce que nous faisons de manière répétée. L’excellence n’est donc pas un acte, mais une habitude.)
 
 ---
