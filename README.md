@@ -29,13 +29,13 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 ### 🚀 Projets phares  
 
-- **[MoneyFollow](https://github.com/Shirou2420/MoneyFollow)**  
+- **[MoneyFollow](https://github.com/LINDECKER-Charles/MoneyFollow)**  
   Application web Java + Angular pour la gestion des dépenses, avec authentification JWT et vérification par Spring Mail.
 
-- **[Blender Collection](https://github.com/Shirou2420/Blender-Collection)**  
+- **[Blender Collection](https://github.com/LINDECKER-Charles/BlenderAdd-OnListe)**  
   Plateforme Symfony qui se connecte à l’API officielle de Blender pour permettre l’installation groupée d’extensions.
 
-- **[League of Data Base](https://github.com/Shirou2420/League-of-Data-Base)**  
+- **[League of Data Base](https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal)**  
   Web app pilotée via API (Riot API) pour analyser et visualiser les statistiques de League of Legends.
 
 ---
@@ -52,7 +52,7 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 ### 📬 Contact & Liens utiles  
 
 - 📧 **Email** : [charles.lindecker@outlook.fr](mailto:charles.lindecker@outlook.fr)  
-- 💼 **LinkedIn** : [linkedin.com/in/charleslindecker](https://www.linkedin.com/in/charleslindecker/)  
+- 💼 **LinkedIn** : [linkedin.com/in/charleslindecker](https://www.linkedin.com/in/charles-lindecker) 
 - 🧾 **Projets publics** : liens GitHub ci-dessus  
 
 ---
