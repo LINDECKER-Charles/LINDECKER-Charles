@@ -36,16 +36,15 @@ Full‑stack developer driven by architecture, security and performance. I desig
 
 ### 📊 GitHub Stats
 
-![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shirou2420\&show_icons=true\&theme=dark\&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirou2420\&layout=compact\&theme=dark\&hide_border=true)
+![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINDECKER-Charles&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINDECKER-Charles&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ### 🔗 Contact
 
-📧 **Email :** [charles.lindecker.dev@gmail.com](mailto:charles.lindecker.dev@gmail.com)
+📧 **Email :** [charles.lindecker.dev@gmail.com](mailto:charles.lindecker@outlook.fr)
 💼 **LinkedIn :** [linkedin.com/in/charleslindecker](https://www.linkedin.com/in/charleslindecker/)
-🌐 **Portfolio :** [hexanti.fr](https://hexanti.fr)
 
 ---
 
