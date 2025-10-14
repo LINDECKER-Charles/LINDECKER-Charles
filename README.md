@@ -42,7 +42,6 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 ### 📊 GitHub Stats / Visuels dynamiques  
 
-<!-- Exemple de cartes de stats — adapte le username à “Shirou2420” ou à ton nom d’utilisateur GitHub actuel -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LINDECKER-Charles&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LINDECKER-Charles&layout=compact&theme=dark&hide_border=true" alt="Top Langs">
@@ -54,7 +53,6 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 - 📧 **Email** : [charles.lindecker@outlook.fr](mailto:charles.lindecker@outlook.fr)  
 - 💼 **LinkedIn** : [linkedin.com/in/charleslindecker](https://www.linkedin.com/in/charleslindecker/)  
-- 🌐 **Portfolio / Site perso** : (si tu en as un)  
 - 🧾 **Projets publics** : liens GitHub ci-dessus  
 
 ---
