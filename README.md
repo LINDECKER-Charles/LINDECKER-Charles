@@ -43,7 +43,7 @@ Full‑stack developer driven by architecture, security and performance. I desig
 
 ### 🔗 Contact
 
-📧 **Email :** [charles.lindecker.dev@gmail.com](mailto:charles.lindecker@outlook.fr)
+📧 **Email :** [charles.lindecker@outlook.frm](mailto:charles.lindecker@outlook.fr)
 💼 **LinkedIn :** [linkedin.com/in/charleslindecker](https://www.linkedin.com/in/charleslindecker/)
 
 ---
