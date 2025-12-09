@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=600&lines=Welcome+to+my+github+profile+!;My+name+is+Charles%2C+i+have+22+yo;I'm+passionate+web+developper" alt="Typing SVG" />
+
 ## 👋 Charles Lindecker  
 **Full-Stack Developer** / **Développeur Full-Stack**  
 
