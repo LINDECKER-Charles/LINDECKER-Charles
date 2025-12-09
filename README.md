@@ -42,7 +42,11 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 ### 📊 GitHub Stats / Visuels dynamiques  
 
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=LINDECKER-Charles)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LINDECKER-Charles&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LINDECKER-Charles&layout=compact&theme=github_dark" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LINDECKER-Charles&theme=github_dark" alt="Profile Details" />
+</p>
 
 ---
 
