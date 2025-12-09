@@ -38,13 +38,15 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 - **[League of Data Base](https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal)**  
   Web app pilotée via API (Riot API) pour analyser et visualiser les statistiques de League of Legends.
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats / Visuels dynamiques  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LINDECKER-Charles&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LINDECKER-Charles&layout=compact&theme=github_dark" height="150" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LINDECKER-Charles&theme=github_dark" alt="Profile Details" />
 </p>
 
