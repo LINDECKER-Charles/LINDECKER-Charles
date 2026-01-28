@@ -95,11 +95,11 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 ---
 
-### 📬 Contact & Liens utiles  
+### Contact & Liens utiles  
 
-- 📧 **Email** : [charles.lindecker@outlook.fr](mailto:charles.lindecker@outlook.fr)  
-- 💼 **LinkedIn** : [linkedin.com/in/charleslindecker](https://www.linkedin.com/in/charles-lindecker) 
-- 🧾 **Projets publics** : liens GitHub ci-dessus  
+-  **Email** : [charles.lindecker@outlook.fr](mailto:charles.lindecker@outlook.fr)  
+-  **LinkedIn** : [linkedin.com/in/charleslindecker](https://www.linkedin.com/in/charles-lindecker) 
+-  **Projets publics** : liens GitHub ci-dessus  
 
 ---
 
