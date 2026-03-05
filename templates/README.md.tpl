@@ -100,14 +100,6 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 ---
 
-## ⭐ Some repositories that received the most attention
-
-{{range topRepos 5}}
-- **[{{.Name}}]({{.URL}})** — ⭐ {{.StargazerCount}}
-{{end}}
-
----
-
 ### 📊 GitHub Stats / Visuels dynamiques  
 
 <p align="center">
