@@ -67,8 +67,9 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
----
 
+---
+ 
 ### 🚀 Projets phares  
 
 - **[MoneyFollow](https://github.com/LINDECKER-Charles/MoneyFollow)**  
