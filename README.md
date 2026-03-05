@@ -67,8 +67,9 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
----
 
+---
+ 
 ### 🚀 Projets phares  
 
 - **[MoneyFollow](https://github.com/LINDECKER-Charles/MoneyFollow)**  
@@ -80,6 +81,27 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 - **[League of Data Base](https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal)**  
   Web app pilotée via API (Riot API) pour analyser et visualiser les statistiques de League of Legends.
 
+
+---
+## 👷 Check out what I'm currently working on
+
+- [LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game) -  (today)
+- [LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database) -  (today)
+- [LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler) -  (today)
+- [LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database) -  (1 day ago)
+- [LINDECKER-Charles/FCC_-Celestial_Bodies_Database](https://github.com/LINDECKER-Charles/FCC_-Celestial_Bodies_Database) -  (1 day ago)
+
+---
+
+## :file_folder: Recent projects / Projets récents
+
+
+- [LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game) - 
+- [LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database) - 
+- [LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler) - 
+- [LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database) - 
+- [LINDECKER-Charles/FCC_-Celestial_Bodies_Database](https://github.com/LINDECKER-Charles/FCC_-Celestial_Bodies_Database) - 
+
 ---
 
 ### 📊 GitHub Stats / Visuels dynamiques  
@@ -87,11 +109,6 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LINDECKER-Charles&theme=github_dark" alt="Profile Details" />
 </p>
-
-![Nexure's github stats](https://github-readme-stats.vercel.app/api?username=LINDECKER-Charles&count_private=true&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINDECKER-Charles&layout=compact&theme=dark)](https://github.com/LINDECKER-Charles/github-readme-stats)
-
 
 ---
 
