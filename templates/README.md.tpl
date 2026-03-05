@@ -83,17 +83,19 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 
 ---
-## 👷 Check out what I'm currently working on
+
+## 🛠️ What I've been building lately
+
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- Worked on **[{{.Repo.Name}}]({{.Repo.URL}})** — {{.Repo.Description}} · {{humanize .OccurredAt}}
 {{- end}}
 
 ---
 
-## :file_folder: Recent projects / Projets récents
+## 📦 A few projects you might want to explore
 
 {{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- **[{{.Name}}]({{.URL}})** — {{.Description}}
 {{- end}}
 
 ---
