@@ -83,24 +83,26 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 
 ---
-## 👷 Check out what I'm currently working on
 
-- [LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game) -  (today)
-- [LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database) -  (today)
-- [LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler) -  (today)
-- [LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database) -  (1 day ago)
-- [LINDECKER-Charles/FCC_-Celestial_Bodies_Database](https://github.com/LINDECKER-Charles/FCC_-Celestial_Bodies_Database) -  (1 day ago)
+## 🛠️ What I've been building lately
+
+
+- Worked on **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** —  · today
+- Worked on **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** —  · today
+- Worked on **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** —  · today
+- Worked on **[LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database)** —  · 1 day ago
+- Worked on **[LINDECKER-Charles/FCC_-Celestial_Bodies_Database](https://github.com/LINDECKER-Charles/FCC_-Celestial_Bodies_Database)** —  · 1 day ago
 
 ---
 
-## :file_folder: Recent projects / Projets récents
+## 📦 A few projects you might want to explore
 
 
-- [LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game) - 
-- [LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database) - 
-- [LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler) - 
-- [LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database) - 
-- [LINDECKER-Charles/FCC_-Celestial_Bodies_Database](https://github.com/LINDECKER-Charles/FCC_-Celestial_Bodies_Database) - 
+- **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** — 
+- **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** — 
+- **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** — 
+- **[LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database)** — 
+- **[LINDECKER-Charles/FCC_-Celestial_Bodies_Database](https://github.com/LINDECKER-Charles/FCC_-Celestial_Bodies_Database)** — 
 
 ---
 
