@@ -89,11 +89,11 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 ## 🛠️ What I've been building lately
 
 
-- Worked on **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** —  · today
-- Worked on **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** —  · today
-- Worked on **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** —  · today
-- Worked on **[LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database)** —  · 1 day ago
-- Worked on **[LINDECKER-Charles/FCC_-Celestial_Bodies_Database](https://github.com/LINDECKER-Charles/FCC_-Celestial_Bodies_Database)** —  · 1 day ago
+- Worked on **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** —  · 1 day ago
+- Worked on **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** —  · 1 day ago
+- Worked on **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** —  · 1 day ago
+- Worked on **[LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database)** —  · 2 days ago
+- Worked on **[LINDECKER-Charles/FCC_-Celestial_Bodies_Database](https://github.com/LINDECKER-Charles/FCC_-Celestial_Bodies_Database)** —  · 2 days ago
 
 ---
 
