@@ -90,9 +90,9 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 
 
 - Worked on **[Teyliu/PVZF-Translation](https://github.com/Teyliu/PVZF-Translation)** — A Repository for the translation · 1 week ago
-- Worked on **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** —  · 1 week ago
-- Worked on **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** —  · 1 week ago
-- Worked on **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** —  · 1 week ago
+- Worked on **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** —  · 2 weeks ago
+- Worked on **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** —  · 2 weeks ago
+- Worked on **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** —  · 2 weeks ago
 - Worked on **[LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database)** —  · 2 weeks ago
 
 ---
