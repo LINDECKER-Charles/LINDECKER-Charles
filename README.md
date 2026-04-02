@@ -89,10 +89,10 @@ My guiding principles: **clean code**, **scalability**, **seamless user experien
 ## 🛠️ What I've been building lately
 
 
-- Worked on **[Teyliu/PVZF-Translation](https://github.com/Teyliu/PVZF-Translation)** — A Repository for the translation · 2 days ago
-- Worked on **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** —  · 3 weeks ago
-- Worked on **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** —  · 3 weeks ago
-- Worked on **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** —  · 3 weeks ago
+- Worked on **[Teyliu/PVZF-Translation](https://github.com/Teyliu/PVZF-Translation)** — A Repository for the translation · 3 days ago
+- Worked on **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** —  · 4 weeks ago
+- Worked on **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** —  · 4 weeks ago
+- Worked on **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** —  · 4 weeks ago
 - Worked on **[LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database)** —  · 4 weeks ago
 
 ---
