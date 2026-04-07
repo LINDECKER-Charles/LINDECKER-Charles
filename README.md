@@ -211,11 +211,11 @@ Structured over improvised
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LINDECKER-Charles&hide_border=true&background=FFFFFF00&ring=1D4ED8&fire=22C55E&currStreakLabel=0F172A&sideNums=0F172A&dates=475569&sideLabels=0F172A" height="180" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=LINDECKER-Charles&hide_border=true&background=0F172A&ring=60A5FA&fire=22C55E&currStreakLabel=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=CBD5E1&sideLabels=F8FAFC&stroke=1D4ED8" height="180" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LINDECKER-Charles&bg_color=00000000&color=0f172a&line=2563eb&point=22c55e&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LINDECKER-Charles&bg_color=0f172a&color=f8fafc&line=60a5fa&point=22c55e&area=true&area_color=1d4ed8&title_color=f8fafc&hide_border=true" width="100%" alt="GitHub activity graph" />
 </p>
 
 ---
