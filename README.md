@@ -1,132 +1,233 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=600&lines=Welcome+to+my+github+profile+!;My+name+is+Charles%2C+i+have+22+yo;I'm+passionate+web+developper" alt="Typing SVG" />
-
-## 👋 Charles Lindecker  
-**Full-Stack Developer** / **Développeur Full-Stack**  
-
----
-
-### 🇫🇷 À propos  
-Développeur full-stack passionné par l’architecture logicielle, la cybersécurité et l’automatisation.  
-J’aime concevoir des applications robustes, testables et élégantes — du backend au front, avec un déploiement Dockerisé efficace.  
-Mon leitmotiv : **clean code**, **scalabilité**, **expérience utilisateur fluide**.
-
-### 🇬🇧 About me  
-Full-stack developer passionate about software architecture, security, and automation.  
-I build robust, testable and elegant applications — from backend to frontend, deploying via Docker with precision.  
-My guiding principles: **clean code**, **scalability**, **seamless user experience**.
-
----
-
-### 🧰 Tech Stack & Outils  
-
-| Côté       | Stack / outils principaux                         |
-|------------|----------------------------------------------------|
-| Backend    | PHP (Symfony) • Java (Spring Boot) • Node.js (Express) |
-| Frontend   | Angular • TypeScript • TailwindCSS • UIkit         |
-| BDD / ORM  | PostgreSQL • MySQL • Doctrine ORM • JPA / Hibernate |
-| DevOps     | Docker • GitHub Actions • Apache • CI / CD • Ubuntu |
-| Autres     | REST APIs • JWT / OAuth2 • Tests (PHPUnit, JUnit)  |
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
----
- 
-### 🚀 Projets phares  
-
-- **[MoneyFollow](https://github.com/LINDECKER-Charles/MoneyFollow)**  
-  Application web Java + Angular pour la gestion des dépenses, avec authentification JWT et vérification par Spring Mail.
-
-- **[Blender Collection](https://github.com/LINDECKER-Charles/BlenderAdd-OnListe)**  
-  Plateforme Symfony qui se connecte à l’API officielle de Blender pour permettre l’installation groupée d’extensions.
-
-- **[League of Data Base](https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal)**  
-  Web app pilotée via API (Riot API) pour analyser et visualiser les statistiques de League of Legends.
-
-
----
-
-## 🛠️ What I've been building lately
-
-
-- Worked on **[Teyliu/PVZF-Translation](https://github.com/Teyliu/PVZF-Translation)** — A Repository for the translation · 1 week ago
-- Worked on **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** —  · 1 month ago
-- Worked on **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** —  · 1 month ago
-- Worked on **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** —  · 1 month ago
-- Worked on **[LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database)** —  · 1 month ago
-
----
-
-## 📦 A few projects you might want to explore
-
-
-- **[LINDECKER-Charles/FCC_Number-Guessing-Game](https://github.com/LINDECKER-Charles/FCC_Number-Guessing-Game)** — 
-- **[LINDECKER-Charles/FCC_Periodic-Table-Database](https://github.com/LINDECKER-Charles/FCC_Periodic-Table-Database)** — 
-- **[LINDECKER-Charles/FCC_Salon-Appointment-Scheduler](https://github.com/LINDECKER-Charles/FCC_Salon-Appointment-Scheduler)** — 
-- **[LINDECKER-Charles/FCC_World-Cup-Database](https://github.com/LINDECKER-Charles/FCC_World-Cup-Database)** — 
-- **[LINDECKER-Charles/FCC_-Celestial_Bodies_Database](https://github.com/LINDECKER-Charles/FCC_-Celestial_Bodies_Database)** — 
-
----
-
-### 📊 GitHub Stats / Visuels dynamiques  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,60:1d4ed8,100:22c55e&text=Charles%20Lindecker&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Developer%20%7C%20ASP.NET%20%E2%80%A2%20Angular%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Docker&descAlignY=58&animation=twinkling" alt="Header" />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LINDECKER-Charles&theme=github_dark" alt="Profile Details" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=1D4ED8&center=true&vCenter=true&width=900&lines=Backend-first+developer;Clean+architecture+and+maintainable+delivery;APIs%2C+data%2C+integrations%2C+production-minded+systems;Lead+of+the+PVZ+Fusion+francophone+GitHub+team" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="mailto:charles.lindecker@outlook.fr"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/charles-lindecker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/LINDECKER-Charles"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://test.omnicard.fr"><img src="https://img.shields.io/badge/Omnicard-Test-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Omnicard test" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LINDECKER-Charles&style=for-the-badge&color=2563eb" alt="Profile views" />
+</p>
+
+<h3 align="center">I build reliable backend-driven products with strong data foundations, explicit architecture, and practical shipping discipline.</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20First-0f172a?style=flat-square" alt="Backend First" />
+  <img src="https://img.shields.io/badge/API%20Design-1d4ed8?style=flat-square" alt="API Design" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f766e?style=flat-square" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0891b2?style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/Open%20Source-16a34a?style=flat-square" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2563eb?style=flat-square" alt="Clean Architecture" />
 </p>
 
 ---
 
-### Contact & Liens utiles  
+<table width="100%">
+  <tr>
+    <td width="58%" valign="top">
 
--  **Email** : [charles.lindecker@outlook.fr](mailto:charles.lindecker@outlook.fr)  
--  **LinkedIn** : [linkedin.com/in/charleslindecker](https://www.linkedin.com/in/charles-lindecker) 
--  **Projets publics** : liens GitHub ci-dessus  
+## Profile
+
+```text
+Role        : Backend Developer
+Core stack  : ASP.NET, Angular, PostgreSQL, Docker
+Focus       : APIs, domain logic, data modeling, integrations
+Approach    : Explicit systems, maintainable code, practical delivery
+```
+
+I work best on backend-heavy applications where architecture, clarity, and long-term maintainability actually matter.
+
+My strongest value is on the server side: building solid API layers, structuring business logic, designing data flows, and shipping systems that remain understandable after the first release.
+
+  </td>
+    <td width="42%" valign="top">
+
+## Now Building
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core-0f172a?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/PostgreSQL-1d4ed8?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-0891b2?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
+### What matters to me
+
+- Reliable API contracts
+- Strong database structure
+- Simple deployment flows
+- Clear authentication logic
+- Codebases that scale without becoming opaque
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-### 🎯 Citation favorite  
+## Main Stack
 
-> “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — Aristotle
-(Nous sommes ce que nous faisons de manière répétée. L’excellence n’est donc pas un acte, mais une habitude.)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,postgres,docker,git,github,linux,vscode" alt="Main stack icons" />
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Backend-ASP.NET-0f172a?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend ASP.NET" />
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Frontend Angular" />
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Data-PostgreSQL-1d4ed8?style=for-the-badge&logo=postgresql&logoColor=white" alt="Data PostgreSQL" />
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/Delivery-Docker-0891b2?style=for-the-badge&logo=docker&logoColor=white" alt="Delivery Docker" />
+    </td>
+  </tr>
+</table>
 
 ---
+
+## Featured Work
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+
+### Omnicard
+
+<a href="https://test.omnicard.fr">
+  <img src="https://img.shields.io/badge/Live%20Test-Open-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Omnicard live test" />
+</a>
+
+Backend-driven card platform available through a public test environment.
+
+```text
+Real product
+Practical usage
+Maintainable structure
+Usable delivery
+```
+
+- Focus on clean flows and coherent architecture
+- Product thinking with backend reliability at the core
+- Public test access: `https://test.omnicard.fr`
+
+    </td>
+    <td width="33%" valign="top">
+
+### Blender Collection
+
+<a href="https://github.com/LINDECKER-Charles/BlenderAdd-OnListe">
+  <img src="https://img.shields.io/badge/Repository-Open-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Blender Collection repository" />
+</a>
+
+Symfony project connected to the official Blender API.
+
+```text
+API integration
+Focused UX
+Server-side structure
+Practical workflow
+```
+
+- Built around add-on discovery and grouped installation
+- Good example of external integration and backend organization
+
+    </td>
+    <td width="33%" valign="top">
+
+### League of Data Base
+
+<a href="https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal">
+  <img src="https://img.shields.io/badge/Repository-Open-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="League of Data Base repository" />
+</a>
+
+Riot API based app designed to analyze and surface game data.
+
+```text
+API-first
+Data transformation
+Readable insights
+Visualization focus
+```
+
+- Built to turn raw information into a more usable interface
+- Mix of data retrieval, logic, and presentation
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## Open Source Role
+
+<table width="100%">
+  <tr>
+    <td width="52%" valign="top">
+
+### PVZ Fusion
+
+I contribute to **PVZ Fusion** as the **Lead of the francophone GitHub team**.
+
+- Coordination of the French-speaking contribution side
+- Quality review and contribution follow-up
+- Work around localization, consistency, and organization
+
+#### Projects
+
+- Main project: [Teyliu/PVZF-Translation](https://github.com/Teyliu/PVZF-Translation)
+- My fork: [LINDECKER-Charles/PVZF-Translation-fr](https://github.com/LINDECKER-Charles/PVZF-Translation-fr)
+
+    </td>
+    <td width="48%" valign="top">
+
+### Working Style
+
+```text
+Explicit over clever
+Maintainable over rushed
+Reliable over flashy
+Structured over improvised
+```
+
+- I prefer codebases that remain legible when they grow
+- I care about systems that are easy to reason about later
+- I like delivery that stays practical in real environments
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LINDECKER-Charles&hide_border=true&background=FFFFFF00&ring=1D4ED8&fire=22C55E&currStreakLabel=0F172A&sideNums=0F172A&dates=475569&sideLabels=0F172A" height="180" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LINDECKER-Charles&bg_color=00000000&color=0f172a&line=2563eb&point=22c55e&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:charles.lindecker@outlook.fr"><strong>charles.lindecker@outlook.fr</strong></a>
+  <br />
+  <a href="https://www.linkedin.com/in/charles-lindecker">linkedin.com/in/charles-lindecker</a>
+  <br />
+  <a href="https://github.com/LINDECKER-Charles">github.com/LINDECKER-Charles</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:020617,25:0f172a,60:1d4ed8,100:22c55e" alt="Footer" />
