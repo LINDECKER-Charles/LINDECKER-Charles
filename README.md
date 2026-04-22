@@ -44,7 +44,9 @@ portfolio: charles-lindecker.com
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,symfony,php,nodejs,python,postgres,mysql,tailwind,docker,git,github,linux,nginx&perline=16" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,python,java,html,css,angular,symfony,spring,nodejs,tailwind&perline=14" alt="Languages & Frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,bash,gradle,nginx,npm,postman,regex,vscode,idea,md&perline=15" alt="Data, DevOps & Tools" />
 </p>
 
 **Languages & Frameworks** — `C# / .NET / ASP.NET` · `Angular` · `TypeScript` · `Symfony 7` · `PHP 8.3/8.4` · `Node.js` · `Python` · `Java Spring`
