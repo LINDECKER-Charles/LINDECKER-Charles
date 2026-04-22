@@ -86,10 +86,11 @@ Collections d'add-ons Blender via l'API officielle — Docker, CI/CD GitHub Acti
 
 ## Autres projets
 
+- **MoneyFollow** · `Java · Spring Boot · Angular · TypeScript · PostgreSQL` — suivi de finances personnelles avec backend Spring Boot et frontend Angular. [repo](https://github.com/LINDECKER-Charles/MoneyFollow)
 - **Web Image Formateur** · `Node.js · TypeScript · npm` — utilitaire CLI pour convertir des images et générer des formats alternatifs adaptés au web. [repo](https://github.com/LINDECKER-Charles/Web-Image-Formateur) · [npm](https://www.npmjs.com/package/@charles_lindecker/img-convertor)
 - **Symfony SEOKit** · `Symfony · PHP` — kit plug-and-play pour gagner du temps sur le SEO dans les projets Symfony. [repo](https://github.com/LINDECKER-Charles/SEOKIT-Symfony)
-- **League of Data Base** · `Riot API · JS · Data viz` — transforme les données brutes de parties en insights lisibles. [repo](https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal)
-- **Glossaire Quest** · `Symfony · PHP · MySQL` — application gamifiée pour apprendre le vocabulaire technique.
+- **League of Data Base** · `Symfony · PHP · Riot API` — transforme les données brutes de parties en insights lisibles. [repo](https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal)
+- **Glossaire Quest** · `Angular · .NET · TypeScript` — application gamifiée pour apprendre le vocabulaire technique.
 - **ShrekSophone** · `JavaScript` — script troll qui vide une page web et affiche Shrek dansant au saxophone en plein écran. [repo](https://github.com/LINDECKER-Charles/ShrekSophone)
 
 ---

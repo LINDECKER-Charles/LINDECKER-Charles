@@ -86,10 +86,11 @@ Blender add-on collections built on the official API — Docker, GitHub Actions 
 
 ## Other Projects
 
+- **MoneyFollow** · `Java · Spring Boot · Angular · TypeScript · PostgreSQL` — personal finance tracker with Spring Boot backend and Angular frontend. [repo](https://github.com/LINDECKER-Charles/MoneyFollow)
 - **Web Image Formateur** · `Node.js · TypeScript · npm` — CLI utility to convert images and generate alternative web-ready formats. [repo](https://github.com/LINDECKER-Charles/Web-Image-Formateur) · [npm](https://www.npmjs.com/package/@charles_lindecker/img-convertor)
 - **Symfony SEOKit** · `Symfony · PHP` — plug-and-play kit to save time on SEO wiring in Symfony projects. [repo](https://github.com/LINDECKER-Charles/SEOKIT-Symfony)
-- **League of Data Base** · `Riot API · JS · Data viz` — turns raw match data into readable insights. [repo](https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal)
-- **Glossaire Quest** · `Symfony · PHP · MySQL` — gamified glossary app for learning technical vocabulary.
+- **League of Data Base** · `Symfony · PHP · Riot API` — turns raw match data into readable insights. [repo](https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal)
+- **Glossaire Quest** · `Angular · .NET · TypeScript` — gamified glossary app for learning technical vocabulary.
 - **ShrekSophone** · `JavaScript` — troll script that wipes a webpage and fullscreens Shrek dancing with a saxophone. [repo](https://github.com/LINDECKER-Charles/ShrekSophone)
 
 ---
