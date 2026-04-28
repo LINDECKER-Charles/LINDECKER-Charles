@@ -111,12 +111,12 @@ focus:  APIs · domain logic · data modeling · clean architecture
   </p>
 </td>
 <td width="50%" valign="top">
-  <h3>&nbsp;PVZ Console Manager</h3>
-  <p><sub><code>TypeScript · Node.js · Python · npm</code></sub></p>
-  <p>Published npm CLI for PVZ Fusion contributors — translation review, asset tracking and workflow automation.</p>
+  <h3>&nbsp;Quanta</h3>
+  <p><sub><code>Angular 20 SSR · .NET 10 · PostgreSQL · SignalR · Stripe</code></sub></p>
+  <p>Independent e-learning platform — short modules, pedagogical quizzes, XP progression and public profiles. JWT cookie auth, realtime notifications, Stripe donations, CI/CD with coverage gate ≥ 75%.</p>
   <p>
-    <a href="https://github.com/LINDECKER-Charles/PVZ-Fuzion-ConsolManager"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-    <a href="https://www.npmjs.com/package/@charles_lindecker/pvzf-console"><img src="https://img.shields.io/badge/npm-pvzf--console-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+    <a href="https://github.com/LINDECKER-Charles/E-Learning-Quizz-App"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+    <a href="https://quizz-ap.charles-lindecker.com"><img src="https://img.shields.io/badge/Live-quizz--ap.charles--lindecker.com-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
   </p>
 </td>
 </tr>
@@ -131,6 +131,17 @@ focus:  APIs · domain logic · data modeling · clean architecture
   </p>
 </td>
 <td width="50%" valign="top">
+  <h3>&nbsp;PVZ Console Manager</h3>
+  <p><sub><code>TypeScript · Node.js · Python · npm</code></sub></p>
+  <p>Published npm CLI for PVZ Fusion contributors — translation review, asset tracking and workflow automation.</p>
+  <p>
+    <a href="https://github.com/LINDECKER-Charles/PVZ-Fuzion-ConsolManager"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+    <a href="https://www.npmjs.com/package/@charles_lindecker/pvzf-console"><img src="https://img.shields.io/badge/npm-pvzf--console-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
   <h3>&nbsp;Blender Collection</h3>
   <p><sub><code>Symfony 7 · PostgreSQL · Docker · PHPUnit</code></sub></p>
   <p>Blender add-on collections built on the official API — Docker, GitHub Actions CI/CD, async workers, role-based admin panel.</p>
@@ -138,6 +149,8 @@ focus:  APIs · domain logic · data modeling · clean architecture
     <a href="https://github.com/LINDECKER-Charles/BlenderAdd-OnListe"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
     <a href="https://www.blend-collection.com"><img src="https://img.shields.io/badge/Live-blend--collection.com-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
   </p>
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
