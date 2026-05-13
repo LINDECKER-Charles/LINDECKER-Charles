@@ -16,7 +16,11 @@
 <p align="center">
   <b>Freelance ASP.NET / Angular @ Dev Mates</b> &nbsp;·&nbsp; <b>Web Dev Trainer @ Elan Formation</b> &nbsp;·&nbsp; <b>Lead FR @ PVZ Fusion</b>
   <br />
-  <sub>Morschwiller-le-Bas, France &nbsp;—&nbsp; <i>Backend-first · API-driven · Production-minded</i></sub>
+  <sub>Mulhouse, France &nbsp;—&nbsp; <i>Backend-first · API-driven · Production-minded</i></sub>
+</p>
+
+<p align="center">
+  <sub><b>Now</b> · Building <a href="https://github.com/LINDECKER-Charles/E-Learning-Quizz-App">Quanta</a> — XP progression and module system</sub>
 </p>
 
 <p align="center">
@@ -197,15 +201,10 @@ focus:  APIs · domain logic · data modeling · clean architecture
 
 <br />
 
-## &nbsp;Activity
+## &nbsp;Where to find me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LINDECKER-Charles&hide_border=true&background=0F172A&ring=60A5FA&fire=22C55E&currStreakLabel=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=CBD5E1&sideLabels=F8FAFC&stroke=1D4ED8" height="165" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LINDECKER-Charles&show_icons=true&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=F8FAFC&icon_color=22C55E&ring_color=1D4ED8" height="165" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LINDECKER-Charles&bg_color=0f172a&color=f8fafc&line=60a5fa&point=22c55e&area=true&area_color=1d4ed8&title_color=f8fafc&hide_border=true" width="100%" alt="Activity graph" />
-</p>
+- **Portfolio** — [charles-lindecker.com](https://charles-lindecker.com)
+- **LinkedIn** — [linkedin.com/in/charles-lindecker](https://www.linkedin.com/in/charles-lindecker)
+- **Email** — charles.lindecker@outlook.fr
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,50:1d4ed8,100:22c55e" alt="Footer" />
