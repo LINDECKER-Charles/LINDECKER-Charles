@@ -30,6 +30,66 @@
 
 <br />
 
+## &nbsp;Flagship — Omnicard <sub>· in production</sub>
+
+<p align="center">
+  <a href="https://omnicard.fr">
+    <img src="https://raw.githubusercontent.com/LINDECKER-Charles/public-Omnicard/main/docs/assets/hero/cosmos_banner.webp" alt="Omnicard — Cosmos" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Realtime strategic TCG — live at <a href="https://omnicard.fr">omnicard.fr</a></b>
+  <br />
+  <sub>181 cards · 3 universes · ranked Cosmic Ladder · 100% free, no in-app purchases</sub>
+</p>
+
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/v1.2.0-Couronne-eab308?style=flat-square" />
+  <img alt="Cards" src="https://img.shields.io/badge/cards-181-3b82f6?style=flat-square" />
+  <img alt="Universes" src="https://img.shields.io/badge/universes-3-ec4899?style=flat-square" />
+  <img alt="Status" src="https://img.shields.io/badge/status-live-22c55e?style=flat-square" />
+  <img alt="Stack" src="https://img.shields.io/badge/stack-C%23%20%C2%B7%20.NET%20%C2%B7%20Angular%20%C2%B7%20SignalR-0f172a?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://omnicard.fr"><img src="https://img.shields.io/badge/▶_Play-omnicard.fr-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="Play" /></a>
+  <a href="https://github.com/LINDECKER-Charles/public-Omnicard"><img src="https://img.shields.io/badge/Public_Docs-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public docs" /></a>
+  <a href="https://discord.gg/XBY9FPNv9g"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://ko-fi.com/charleslindecker"><img src="https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LINDECKER-Charles/public-Omnicard/blob/main/docs/universes/bloodborne.md">
+    <img src="https://raw.githubusercontent.com/LINDECKER-Charles/public-Omnicard/main/docs/assets/packets/bloodborne_sm.webp" width="150" alt="Bloodborne pack" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/LINDECKER-Charles/public-Omnicard/blob/main/docs/universes/jojo.md">
+    <img src="https://raw.githubusercontent.com/LINDECKER-Charles/public-Omnicard/main/docs/assets/packets/jojo_sm.webp" width="150" alt="JoJo pack" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/LINDECKER-Charles/public-Omnicard/blob/main/docs/universes/wtf.md">
+    <img src="https://raw.githubusercontent.com/LINDECKER-Charles/public-Omnicard/main/docs/assets/packets/wtf_sm.webp" width="150" alt="WTF pack" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Bloodborne</b> <sub>· 114 cards</sub>
+  &nbsp;·&nbsp;
+  <b>JoJo's Bizarre Adventure</b> <sub>· 51 cards</sub>
+  &nbsp;·&nbsp;
+  <b>WTF</b> <sub>· 16 cards</sub>
+</p>
+
+<p align="center">
+  <sub>
+    Turn-based · 30 HP · 40-card decks · mana → Crystals · damage-fueled Ecstasy · 2-line board · ranked Cosmic Ladder (Stardust → Singularity).<br />
+    DDD game engine · centralized event system · extensible card effects · realtime multiplayer over SignalR · matchmaking · solo AI · CLI simulation harness · xUnit-tested.
+  </sub>
+</p>
+
+<br />
+
 ## &nbsp;About
 
 ```yaml
@@ -103,20 +163,21 @@ focus:  APIs · domain logic · data modeling · clean architecture
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-  <h3>&nbsp;Omnicard</h3>
-  <p><sub><code>C# · Angular · SignalR · EF Core · Xunit</code></sub></p>
-  <p>Realtime strategic card game — DDD game engine, centralized event system, extensible effects, multi-player lobby and CLI simulation. <em>Private repository.</em></p>
-  <p>
-    <a href="https://test.omnicard.fr"><img src="https://img.shields.io/badge/Live%20Test-test.omnicard.fr-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
-  </p>
-</td>
-<td width="50%" valign="top">
   <h3>&nbsp;Quanta</h3>
   <p><sub><code>Angular 20 SSR · .NET 10 · PostgreSQL · SignalR · Stripe</code></sub></p>
   <p>Independent e-learning platform — short modules, pedagogical quizzes, XP progression and public profiles. JWT cookie auth, realtime notifications, Stripe donations, CI/CD with coverage gate ≥ 75%.</p>
   <p>
     <a href="https://github.com/LINDECKER-Charles/E-Learning-Quizz-App"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
     <a href="https://quizz-ap.charles-lindecker.com"><img src="https://img.shields.io/badge/Live-quizz--ap.charles--lindecker.com-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3>&nbsp;Blender Collection</h3>
+  <p><sub><code>Symfony 7 · PostgreSQL · Docker · PHPUnit</code></sub></p>
+  <p>Blender add-on collections built on the official API — Docker, GitHub Actions CI/CD, async workers, role-based admin panel.</p>
+  <p>
+    <a href="https://github.com/LINDECKER-Charles/BlenderAdd-OnListe"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+    <a href="https://www.blend-collection.com"><img src="https://img.shields.io/badge/Live-blend--collection.com-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
   </p>
 </td>
 </tr>
@@ -138,19 +199,6 @@ focus:  APIs · domain logic · data modeling · clean architecture
     <a href="https://github.com/LINDECKER-Charles/PVZ-Fuzion-ConsolManager"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
     <a href="https://www.npmjs.com/package/@charles_lindecker/pvzf-console"><img src="https://img.shields.io/badge/npm-pvzf--console-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
   </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>&nbsp;Blender Collection</h3>
-  <p><sub><code>Symfony 7 · PostgreSQL · Docker · PHPUnit</code></sub></p>
-  <p>Blender add-on collections built on the official API — Docker, GitHub Actions CI/CD, async workers, role-based admin panel.</p>
-  <p>
-    <a href="https://github.com/LINDECKER-Charles/BlenderAdd-OnListe"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-    <a href="https://www.blend-collection.com"><img src="https://img.shields.io/badge/Live-blend--collection.com-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
-  </p>
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
