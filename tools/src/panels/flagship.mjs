@@ -10,7 +10,7 @@ import { rng, r1 } from '../core/rng.mjs';
 import { embed } from '../core/images.mjs';
 import { plate, label, TXT } from './plate.mjs';
 import { glow } from '../art/sky.mjs';
-import { diamond, rule, corner, divider } from '../art/ornaments.mjs';
+import { diamond, corner, divider } from '../art/ornaments.mjs';
 import { icon } from '../art/icons.mjs';
 import { lanternCss } from '../art/lantern.mjs';
 
@@ -152,7 +152,6 @@ export async function flagship(t, variant = 'desktop') {
   dy += mobile ? 64 : 60;
   doc.add(label(doc, t.lang === 'fr' ? 'Sous le capot' : 'Under the hood', { x: W / 2, y: dy, size: X.label + 1, fill: C.ember, anchor: 'middle', tracking: 0.3 }));
   dy += mobile ? 58 : 54;
-  const cols = mobile ? 1 : 3;
   const cw = mobile ? W - pad * 2 : (W - pad * 2 - 80) / 3;
   let bottom = dy;
   let flow = dy;

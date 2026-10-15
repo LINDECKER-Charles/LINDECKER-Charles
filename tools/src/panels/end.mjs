@@ -9,7 +9,7 @@ import { Doc } from '../core/doc.mjs';
 import { C } from '../core/tokens.mjs';
 import { rng, r1 } from '../core/rng.mjs';
 import { plate, label, TXT } from './plate.mjs';
-import { glow, nightBackground, starField, moon, mist, grain, vignette, horizonHaze } from '../art/sky.mjs';
+import { nightBackground, starField, moon, mist, grain, vignette, horizonHaze } from '../art/sky.mjs';
 import { diamond, rule, divider } from '../art/ornaments.mjs';
 import { lantern } from '../art/lantern.mjs';
 import { Shapes, townLayer, cathedral } from '../art/skyline.mjs';

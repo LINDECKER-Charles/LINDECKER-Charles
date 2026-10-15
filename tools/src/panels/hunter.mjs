@@ -101,12 +101,12 @@ export async function hunter(t, variant = 'desktop') {
 
   // « La run » : la jauge de sang et trois repères
   doc.add(label(doc, t.hunter.run, { x, y, size: X.label, fill: C.ash, tracking: 0.3 }));
-  const gx = x + (variant === 'desktop' ? 96 : 112);
+  const gx = x + doc.width(t.hunter.run, 'm5', X.label, 0.3, true) + (variant === 'desktop' ? 22 : 26);
   const gw = cw - (gx - x);
   doc.add(`<rect x="${gx}" y="${y - 7}" width="${r1(gw)}" height="3" fill="${C.blood}" fill-opacity=".9"/><rect x="${gx}" y="${y - 7}" width="${r1(gw)}" height="1" fill="#C0392B" fill-opacity=".35"/>`);
   doc.add(diamond(gx, y - 5.5, 5, C.goldSheen), diamond(gx + gw, y - 5.5, 5, C.goldSheen));
   y += variant === 'desktop' ? 66 : 80;
-  const cols = variant === 'desktop' ? 3 : 3;
+  const cols = 3;
   const colW = cw / cols;
   let bottom = plateY;
   t.hunter.stats.forEach((s, i) => {

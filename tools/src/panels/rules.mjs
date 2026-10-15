@@ -5,7 +5,7 @@
  */
 import { Doc } from '../core/doc.mjs';
 import { C } from '../core/tokens.mjs';
-import { rng, r1 } from '../core/rng.mjs';
+import { rng } from '../core/rng.mjs';
 import { plate, label, TXT } from './plate.mjs';
 import { glow } from '../art/sky.mjs';
 import { diamond, rule } from '../art/ornaments.mjs';
@@ -31,7 +31,7 @@ export async function rules(t, variant = 'desktop') {
   for (const { item, i } of blocks) {
     const strong = i === 2;
     const cx = variant === 'desktop' ? V.xs[i] : V.xs[0];
-    const cy = variant === 'desktop' ? y0 : y0;
+    const cy = y0;
     // la lumière unique derrière « Emmener »
     if (strong) doc.add(`<g class="halo">${glow(doc, { cx, cy: cy + 120, r: 300, color: C.emberCore, opacity: 0.12 })}</g>`);
     // médaillon : disque sombre, deux anneaux, quatre losanges cardinaux
