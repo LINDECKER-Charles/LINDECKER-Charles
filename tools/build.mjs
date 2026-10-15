@@ -22,8 +22,9 @@ let total = 0;
 let count = 0;
 for (const lang of ['fr', 'en']) {
   const dir = path.join(OUT, lang);
-  if (!only) fs.rmSync(dir, { recursive: true, force: true });
   fs.mkdirSync(dir, { recursive: true });
+  // on repart de zéro pour les SVG ; les images animées (rituals.mjs) restent
+  if (!only) for (const f of fs.readdirSync(dir)) if (f.endsWith('.svg')) fs.rmSync(path.join(dir, f));
   const write = (file, svg) => {
     fs.writeFileSync(path.join(dir, file), svg);
     total += svg.length;

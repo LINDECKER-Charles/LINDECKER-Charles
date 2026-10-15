@@ -31,6 +31,10 @@
 </p>
 
 <p align="center">
+  <a href="https://bloodborne-legendary-run.com/fr/sky"><picture><source media="(max-width: 700px)" srcset="./assets/fr/rituals.mobile.webp"><img src="./assets/fr/rituals.webp" width="100%" alt="Allumer une étoile dans Bloodborne Legendary Run : quatre enregistrements réels de l’application. Un boss vaincu (« Proie abattue », le Monstre clérical), un lieu découvert (le Centre de Yharnam se révèle à l’encre), une rune obtenue (la Rune de Caryll Métamorphose horaire se grave), une gemme trouvée (une Gemme radiale rouge prend forme)."></picture></a>
+</p>
+
+<p align="center">
   <a href="https://bloodborne-legendary-run.com/fr/sky"><img src="./assets/fr/btn-app.svg" height="46" alt="L’application — Bloodborne Legendary Run"></a>&nbsp;
   <a href="https://bloodborne-legendary-run.com/fr/changelog"><img src="./assets/fr/btn-journal.svg" height="46" alt="Le journal — Bloodborne Legendary Run"></a>
 </p>

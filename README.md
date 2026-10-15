@@ -31,6 +31,10 @@
 </p>
 
 <p align="center">
+  <a href="https://bloodborne-legendary-run.com/en/sky"><picture><source media="(max-width: 700px)" srcset="./assets/en/rituals.mobile.webp"><img src="./assets/en/rituals.webp" width="100%" alt="Lighting a star in Bloodborne Legendary Run: four real recordings of the app. A boss defeated (“Prey slaughtered”, the Cleric Beast), a place discovered (Central Yharnam revealed in ink), a rune obtained (the Caryll rune Clockwise Metamorphosis being engraved), a gem found (a red radial blood gem taking shape)."></picture></a>
+</p>
+
+<p align="center">
   <a href="https://bloodborne-legendary-run.com/en/sky"><img src="./assets/en/btn-app.svg" height="46" alt="The app — Bloodborne Legendary Run"></a>&nbsp;
   <a href="https://bloodborne-legendary-run.com/en/changelog"><img src="./assets/en/btn-journal.svg" height="46" alt="Changelog — Bloodborne Legendary Run"></a>
 </p>

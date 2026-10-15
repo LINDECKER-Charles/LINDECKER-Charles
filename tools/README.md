@@ -20,6 +20,7 @@ npm run build          # assets/fr, assets/en, README.md et README.fr.md
 |---|---|
 | `npm run build` | régénère tous les visuels (bureau et téléphone, français et anglais), les boutons et les deux README |
 | `node build.mjs --only hero,sky` | ne régénère que certains panneaux (les README ne sont pas réécrits) |
+| `npm run rituals` | l'image animée « Allumer une étoile » : les quatre enregistrements de l'application incrustés dans leurs téléphones, en WebP animé ; demande `ffmpeg` et `img2webp` (`brew install ffmpeg webp`), environ une minute |
 | `node dev.mjs <panneau> [desktop\|mobile] [fr\|en]` | génère un seul panneau et en prend un instantané PNG (dossier `out/`, ou `FORGE_OUT`) |
 | `node preview.mjs <dossier> [fr\|en]` | aperçu fidèle du README : rendu par l'API Markdown de GitHub (`gh` connecté), feuille de style de GitHub, thèmes sombre et clair, largeur du profil et d'un téléphone |
 
@@ -62,6 +63,7 @@ est complète sans elles.
 | `sources/blr/*.webp` | vraies captures de Bloodborne Legendary Run (ciel, constellation, guide), prises pour le portfolio, avec un compte et une progression de démonstration ; posées sans retouche |
 | `sources/blr/logo.webp` | l'icône de l'application Bloodborne Legendary Run |
 | `sources/projets/*.webp` | captures des projets prises pour le portfolio, sur des données de démonstration (League Of Data Base : site public) ; `pvz.webp` est l'illustration « gravure » de la page PvZ Fusion du portfolio |
+| `sources/rituels/*.mp4` | les quatre allumages enregistrés le 9 octobre 2026 dans le vrai front de Bloodborne Legendary Run (390 × 844, sans son) : boss, découverte, rune, gemme ; compte et progression de démonstration, geste et cérémonie ni accélérés ni recomposés |
 
 Les ornements (arcature, grille d'Oedon, cierges, fronton) sont recopiés du design system de
 Bloodborne Legendary Run ; les pictogrammes des trois verbes, du portfolio. Logos techniques :

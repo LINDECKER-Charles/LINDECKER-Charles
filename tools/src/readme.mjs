@@ -9,15 +9,15 @@ const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').repl
 
 export function readme(t, { assets = './assets', mobileBase } = {}) {
   const lang = t.lang;
-  const src = (name) => `${assets}/${lang}/${name}.svg`;
-  const set = (name) => `${mobileBase ?? assets}/${lang}/${name}.svg`;
+  const src = (name, ext = 'svg') => `${assets}/${lang}/${name}.${ext}`;
+  const set = (name, ext = 'svg') => `${mobileBase ?? assets}/${lang}/${name}.${ext}`;
   const fr = lang === 'fr';
   const P = t.projects;
 
   /** Un panneau pleine largeur, sa version téléphone et son lien éventuel. */
-  const pic = (name, alt, link) => {
-    const img = `<img src="${src(name)}" width="100%" alt="${esc(alt)}">`;
-    const inner = `<picture><source media="(max-width: 700px)" srcset="${set(`${name}.mobile`)}">${img}</picture>`;
+  const pic = (name, alt, link, ext = 'svg') => {
+    const img = `<img src="${src(name, ext)}" width="100%" alt="${esc(alt)}">`;
+    const inner = `<picture><source media="(max-width: 700px)" srcset="${set(`${name}.mobile`, ext)}">${img}</picture>`;
     return `<p align="center">\n  ${link ? `<a href="${link}">${inner}</a>` : inner}\n</p>`;
   };
   /** Une rangée de boutons. */
@@ -42,6 +42,7 @@ export function readme(t, { assets = './assets', mobileBase } = {}) {
     pic('rules', t.rules.alt, page('')),
     pic('sky', t.sky.alt, page('projets')),
     pic('flagship', t.flagship.alt, blr),
+    pic('rituals', t.rituals.alt, blr, 'webp'),
     row([
       ['app', blr, `${b.app} — Bloodborne Legendary Run`],
       ['journal', journal, `${b.journal} — Bloodborne Legendary Run`],

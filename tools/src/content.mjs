@@ -146,6 +146,19 @@ export const T = {
       alt: 'Bloodborne Legendary Run : une application web et Android pour suivre une partie de Bloodborne, où chaque objectif devient une étoile. 1 289 objectifs, 22 constellations, 864 fiches de guide en français (relevé du 8 octobre 2026). Captures réelles de l’application.',
       privateNote: 'Dépôt privé',
     },
+    rituals: {
+      eyebrow: 'Bloodborne Legendary Run',
+      title: 'Allumer une étoile',
+      sub: `Un seul geste, l’appui maintenu. La famille de l’objectif décide de la${NB}cérémonie.`,
+      items: [
+        { id: 'boss', t: 'Un boss vaincu', d: 'La victoire devient une proclamation.' },
+        { id: 'decouverte', t: 'Un lieu découvert', d: 'Le paysage se révèle à l’encre.' },
+        { id: 'rune', t: 'Une rune obtenue', d: 'Le symbole se grave à l’écran.' },
+        { id: 'gemme', t: 'Une gemme trouvée', d: 'Le cristal prend forme et s’illumine.' },
+      ],
+      note: `Enregistrements de l’application, le 9${NB}octobre 2026${NB}: compte et progression de démonstration.`,
+      alt: 'Allumer une étoile dans Bloodborne Legendary Run : quatre enregistrements réels de l’application. Un boss vaincu (« Proie abattue », le Monstre clérical), un lieu découvert (le Centre de Yharnam se révèle à l’encre), une rune obtenue (la Rune de Caryll Métamorphose horaire se grave), une gemme trouvée (une Gemme radiale rouge prend forme).',
+    },
     projects: {
       pvz: {
         family: 'Lead et équipe',
@@ -394,6 +407,19 @@ export const T = {
       ],
       alt: 'Bloodborne Legendary Run: a web and Android app to follow a Bloodborne playthrough, where every goal becomes a star. 1,289 goals, 22 constellations, 864 guide entries in French (counted on 8 October 2026). Real screenshots of the app.',
       privateNote: 'Private repository',
+    },
+    rituals: {
+      eyebrow: 'Bloodborne Legendary Run',
+      title: 'Lighting a star',
+      sub: 'One gesture, a long press. The goal’s family decides the ceremony.',
+      items: [
+        { id: 'boss', t: 'A boss defeated', d: 'Victory becomes a proclamation.' },
+        { id: 'decouverte', t: 'A place discovered', d: 'The landscape is revealed in ink.' },
+        { id: 'rune', t: 'A rune obtained', d: 'The symbol is engraved on screen.' },
+        { id: 'gemme', t: 'A gem found', d: 'The crystal takes shape and lights up.' },
+      ],
+      note: 'Recordings of the app, 9 October 2026: demo account and progress. The app is in French.',
+      alt: 'Lighting a star in Bloodborne Legendary Run: four real recordings of the app. A boss defeated (“Prey slaughtered”, the Cleric Beast), a place discovered (Central Yharnam revealed in ink), a rune obtained (the Caryll rune Clockwise Metamorphosis being engraved), a gem found (a red radial blood gem taking shape).',
     },
     projects: {
       pvz: {
