@@ -1,258 +1,156 @@
+<!-- Généré par tools/build.mjs : modifier tools/src/content.mjs, puis « npm run build » dans tools/. -->
+
 <p align="right">
-  <a href="./README.md"><img src="https://img.shields.io/badge/Lang-English-1d4ed8?style=flat-square" alt="English version" /></a>
+  <a href="./README.md"><img src="./assets/fr/btn-lang.svg" height="46" alt="English"></a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:1d4ed8,100:22c55e&text=Charles%20Lindecker&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=D%C3%A9veloppeur%20Backend%20et%20Formateur&descAlignY=65&animation=twinkling" alt="Header" />
+  <a href="https://charles-lindecker.com"><picture><source media="(max-width: 700px)" srcset="./assets/fr/hero.mobile.svg"><img src="./assets/fr/hero.svg" width="100%" alt="Charles Lindecker, architecte logiciel à Mulhouse. « Je maîtrise d’abord les règles du jeu. Ensuite, je les réinvente. » Une nuit sur Yharnam : lune pâle, flèches gothiques et constellation qui s’allume."></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://charles-lindecker.com"><img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:charles.lindecker@outlook.fr"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/charles-lindecker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/LINDECKER-Charles"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://charles-lindecker.com"><img src="./assets/fr/btn-portfolio.svg" height="46" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/charles-lindecker/"><img src="./assets/fr/btn-linkedin.svg" height="46" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:charles.lindecker@outlook.fr"><img src="./assets/fr/btn-email.svg" height="46" alt="E-mail : charles.lindecker@outlook.fr"></a>
 </p>
 
 <p align="center">
-  <b>Freelance ASP.NET / Angular @ Dev Mates</b> &nbsp;·&nbsp; <b>Formateur Web @ Elan Formation</b> &nbsp;·&nbsp; <b>Lead FR @ PVZ Fusion</b>
-  <br />
-  <sub>Mulhouse, France &nbsp;—&nbsp; <i>Backend-first · Orienté API · Production-ready</i></sub>
+  <a href="https://www.linkedin.com/in/charles-lindecker/"><picture><source media="(max-width: 700px)" srcset="./assets/fr/hunter.mobile.svg"><img src="./assets/fr/hunter.svg" width="100%" alt="Le chasseur : Charles Lindecker, architecte logiciel chez B-Hive à Mulhouse, lead du pôle francophone de PvZ Fusion. Il code depuis ses 13 ans."></picture></a>
 </p>
 
 <p align="center">
-  <sub><b>En ce moment</b> · Je construis <a href="https://github.com/LINDECKER-Charles/E-Learning-Quizz-App">Quanta</a> — progression XP et système de modules</sub>
+  <a href="https://charles-lindecker.com"><picture><source media="(max-width: 700px)" srcset="./assets/fr/rules.mobile.svg"><img src="./assets/fr/rules.svg" width="100%" alt="Les trois règles. Maîtriser : comprendre ce qui fonctionne avant de prendre mes propres décisions (le programme de développeur web bouclé en un mois). Réinventer : quand la solution habituelle atteint sa limite, essayer autre chose (mon jeu de cartes papier devenu un jeu en ligne, arbitré par mon moteur de règles). Emmener : partager ce que j’ai compris pour que les autres puissent avancer (20 personnes formées au pôle francophone de PvZ Fusion)."></picture></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Backend%20First-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/-API%20Design-1d4ed8?style=flat-square" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-0f766e?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Docker-0891b2?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Clean%20Architecture-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Open%20Source-16a34a?style=flat-square" />
-</p>
-
-<br />
-
-## &nbsp;Projet phare — Omnicard <sub>· en production</sub>
-
-<p align="center">
-  <a href="https://omnicard.fr">
-    <img src="https://raw.githubusercontent.com/LINDECKER-Charles/public-Omnicard/main/docs/assets/hero/cosmos_banner.webp" alt="Omnicard — Cosmos" width="100%" />
-  </a>
+  <a href="https://charles-lindecker.com"><picture><source media="(max-width: 700px)" srcset="./assets/fr/sky.mobile.svg"><img src="./assets/fr/sky.svg" width="100%" alt="Le ciel des projets, en quatre constellations. Lead et équipe : PvZ Fusion. Jeu vidéo : Omnicard, Bloodborne Legendary Run, League Of Data Base. Outils : gup, GitHealth. IA : Karl Scraper, Sillage, Relais."></picture></a>
 </p>
 
 <p align="center">
-  <b>TCG stratégique temps réel — jouable sur <a href="https://omnicard.fr">omnicard.fr</a></b>
-  <br />
-  <sub>181 cartes · 3 univers · Échelle Cosmique classée · 100% gratuit, sans achat in-app</sub>
+  <a href="https://bloodborne-legendary-run.com/fr/sky"><picture><source media="(max-width: 700px)" srcset="./assets/fr/flagship.mobile.svg"><img src="./assets/fr/flagship.svg" width="100%" alt="Bloodborne Legendary Run : une application web et Android pour suivre une partie de Bloodborne, où chaque objectif devient une étoile. 1 289 objectifs, 22 constellations, 864 fiches de guide en français (relevé du 8 octobre 2026). Captures réelles de l’application."></picture></a>
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/v1.2.0-Couronne-eab308?style=flat-square" />
-  <img alt="Cartes" src="https://img.shields.io/badge/cartes-181-3b82f6?style=flat-square" />
-  <img alt="Univers" src="https://img.shields.io/badge/univers-3-ec4899?style=flat-square" />
-  <img alt="Statut" src="https://img.shields.io/badge/statut-en%20ligne-22c55e?style=flat-square" />
-  <img alt="Stack" src="https://img.shields.io/badge/stack-C%23%20%C2%B7%20.NET%20%C2%B7%20Angular%20%C2%B7%20SignalR-0f172a?style=flat-square" />
+  <a href="https://bloodborne-legendary-run.com/fr/sky"><picture><source media="(max-width: 700px)" srcset="./assets/fr/rituals.mobile.webp"><img src="./assets/fr/rituals.webp" width="100%" alt="Allumer une étoile dans Bloodborne Legendary Run : quatre enregistrements réels de l’application. Un boss vaincu (« Proie abattue », le Monstre clérical), un lieu découvert (le Centre de Yharnam se révèle à l’encre), une rune obtenue (la Rune de Caryll Métamorphose horaire se grave), une gemme trouvée (une Gemme radiale rouge prend forme)."></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://omnicard.fr"><img src="https://img.shields.io/badge/▶_Jouer-omnicard.fr-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="Jouer" /></a>
-  <a href="https://github.com/LINDECKER-Charles/public-Omnicard"><img src="https://img.shields.io/badge/Docs_publiques-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Docs publiques" /></a>
-  <a href="https://discord.gg/XBY9FPNv9g"><img src="https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://ko-fi.com/charleslindecker"><img src="https://img.shields.io/badge/Soutenir-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+  <a href="https://bloodborne-legendary-run.com/fr/sky"><img src="./assets/fr/btn-app.svg" height="46" alt="L’application — Bloodborne Legendary Run"></a>&nbsp;
+  <a href="https://bloodborne-legendary-run.com/fr/changelog"><img src="./assets/fr/btn-journal.svg" height="46" alt="Le journal — Bloodborne Legendary Run"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LINDECKER-Charles/public-Omnicard/blob/main/docs/universes/bloodborne.md">
-    <img src="https://raw.githubusercontent.com/LINDECKER-Charles/public-Omnicard/main/docs/assets/packets/bloodborne_sm.webp" width="150" alt="Pack Bloodborne" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/LINDECKER-Charles/public-Omnicard/blob/main/docs/universes/jojo.md">
-    <img src="https://raw.githubusercontent.com/LINDECKER-Charles/public-Omnicard/main/docs/assets/packets/jojo_sm.webp" width="150" alt="Pack JoJo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/LINDECKER-Charles/public-Omnicard/blob/main/docs/universes/wtf.md">
-    <img src="https://raw.githubusercontent.com/LINDECKER-Charles/public-Omnicard/main/docs/assets/packets/wtf_sm.webp" width="150" alt="Pack WTF" />
-  </a>
+  <picture><source media="(max-width: 700px)" srcset="./assets/fr/sep-equipe.mobile.svg"><img src="./assets/fr/sep-equipe.svg" width="100%" alt="Lead et équipe"></picture>
 </p>
 
 <p align="center">
-  <b>Bloodborne</b> <sub>· 114 cartes</sub>
-  &nbsp;·&nbsp;
-  <b>JoJo's Bizarre Adventure</b> <sub>· 51 cartes</sub>
-  &nbsp;·&nbsp;
-  <b>WTF</b> <sub>· 16 cartes</sub>
+  <a href="https://github.com/Teyliu/PVZF-Translation"><picture><source media="(max-width: 700px)" srcset="./assets/fr/card-pvz.mobile.svg"><img src="./assets/fr/card-pvz.svg" width="100%" alt="PvZ Fusion, pôle francophone — Une équipe formée et menée. Traduire un jeu. Faire grandir une équipe. PvZ Fusion change sans cesse : quinze versions en quatorze mois. Quand je suis arrivé, la traduction française avait plusieurs versions de retard. Dix mois plus tard, avec l’équipe que j’ai recrutée et formée, il ne manquait plus une seule entrée. 20 personnes formées au pôle francophone ; 1 335 → 0 entrée manquante ; 35 pull requests fusionnées dans le projet officiel."></picture></a>
 </p>
 
 <p align="center">
-  <sub>
-    Tour-par-tour · 30 PV · decks 40 cartes · mana → Cristaux · Extase alimentée par les dégâts · plateau 2 lignes · mode Classé Échelle Cosmique (Poussière Stellaire → Singularité).<br />
-    Moteur de jeu DDD · système d'événements centralisé · effets de cartes extensibles · multijoueur temps réel via SignalR · matchmaking · IA solo · harness de simulation CLI · testé xUnit.
-  </sub>
+  <a href="https://github.com/Teyliu/PVZF-Translation"><img src="./assets/fr/btn-upstream.svg" height="46" alt="Le projet — PvZ Fusion"></a>&nbsp;
+  <a href="https://github.com/LINDECKER-Charles/PVZ-Fuzion-ConsolManager"><img src="./assets/fr/btn-tool.svg" height="46" alt="L’outil — Console Manager"></a>
 </p>
-
-<br />
-
-## &nbsp;À propos
-
-```yaml
-rôle:   Développeur backend & formateur
-stack:  ASP.NET · Angular · Symfony · PostgreSQL · Docker
-focus:  APIs · logique métier · modélisation · clean architecture
-```
-
-<br />
-
-## &nbsp;Expérience
-
-<table width="100%">
-<thead>
-<tr>
-<th align="left">Poste</th>
-<th align="left">Entreprise</th>
-<th align="left">Période</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Formateur développement web</b> — DWWM (RNCP 5) & CDA (RNCP 6)</td>
-<td>Elan Formation · Mulhouse</td>
-<td>Déc. 2025 — <i>en poste</i></td>
-</tr>
-<tr>
-<td><b>Développeur Freelance ASP.NET / Angular</b> — architecture, CI/CD, relation client</td>
-<td>Dev Mates · Mulhouse</td>
-<td>Nov. 2025 — <i>en poste</i></td>
-</tr>
-<tr>
-<td><b>Lead — Pôle Francophone</b> — onboarding, gestion de projet, outillage Python</td>
-<td>PVZ Fusion · Distance</td>
-<td>Nov. 2025 — <i>en poste</i></td>
-</tr>
-</tbody>
-</table>
-
-<br />
-
-## &nbsp;Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,python,java,html,css,angular,symfony,spring,nodejs,tailwind&perline=14" alt="Langages & Frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,bash,gradle,nginx,npm,postman,regex,vscode,idea,md&perline=15" alt="Données, DevOps & Outils" />
+  <picture><source media="(max-width: 700px)" srcset="./assets/fr/sep-jeu.mobile.svg"><img src="./assets/fr/sep-jeu.svg" width="100%" alt="Jeu vidéo"></picture>
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<p><b>Langages & Frameworks</b><br />
-<sub>C# / .NET / ASP.NET · Angular · TypeScript · Symfony 7 · PHP 8.3/8.4 · Node.js · Python · Java Spring</sub></p>
-<p><b>Librairies & Tests</b><br />
-<sub>SignalR · EF Core · Xunit · PHPUnit · GSAP · Tailwind CSS</sub></p>
-</td>
-<td width="50%" valign="top">
-<p><b>Données</b><br />
-<sub>PostgreSQL · MySQL</sub></p>
-<p><b>DevOps & Workflow</b><br />
-<sub>Docker · GitHub Actions · Linux · Apache / Nginx · Agile / Scrum · Trello</sub></p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/LINDECKER-Charles/public-Omnicard/blob/main/docs/rules.md"><picture><source media="(max-width: 700px)" srcset="./assets/fr/card-omnicard.mobile.svg"><img src="./assets/fr/card-omnicard.svg" width="100%" alt="Omnicard (Jeu vidéo) — Réinventer. Le jeu de cartes inventé sur papier avec mon cousin, devenu un jeu en ligne avec son moteur de règles. 181 cartes dans le catalogue public. Co-auteur du jeu papier ; seul pour le jeu en ligne. Hors ligne, en attente de refonte."></picture></a>
+</p>
 
-<br />
+<p align="center">
+  <a href="https://github.com/LINDECKER-Charles/public-Omnicard/blob/main/docs/rules.md"><img src="./assets/fr/btn-rules.svg" height="46" alt="Les règles — Omnicard"></a>
+</p>
 
-## &nbsp;Projets phares
+<p align="center">
+  <a href="https://league-of-data-base.com/fr/"><picture><source media="(max-width: 700px)" srcset="./assets/fr/card-league.mobile.svg"><img src="./assets/fr/card-league.svg" width="100%" alt="League Of Data Base (Jeu vidéo) — Un système en production. Retrouver les valeurs exactes d’un ancien patch de League of Legends, dans sa langue. 403 patchs, dans 21 langues. Conçu et maintenu seul. En ligne."></picture></a>
+</p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3>&nbsp;Quanta</h3>
-  <p><sub><code>Angular 20 SSR · .NET 10 · PostgreSQL · SignalR · Stripe</code></sub></p>
-  <p>Plateforme e-learning indépendante — modules courts, quizz pédagogiques, progression XP et profils publics. Auth JWT cookie, notifications temps réel, dons Stripe, CI/CD avec gate de couverture ≥ 75%.</p>
-  <p>
-    <a href="https://github.com/LINDECKER-Charles/E-Learning-Quizz-App"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-    <a href="https://quizz-ap.charles-lindecker.com"><img src="https://img.shields.io/badge/Live-quizz--ap.charles--lindecker.com-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
-  </p>
-</td>
-<td width="50%" valign="top">
-  <h3>&nbsp;Blender Collection</h3>
-  <p><sub><code>Symfony 7 · PostgreSQL · Docker · PHPUnit</code></sub></p>
-  <p>Collections d'add-ons Blender via l'API officielle — Docker, CI/CD GitHub Actions, workers asynchrones, panneau d'administration avec gestion des rôles.</p>
-  <p>
-    <a href="https://github.com/LINDECKER-Charles/BlenderAdd-OnListe"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-    <a href="https://www.blend-collection.com"><img src="https://img.shields.io/badge/Live-blend--collection.com-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>&nbsp;MonPortfolio</h3>
-  <p><sub><code>Angular · TypeScript · GSAP · Tailwind</code></sub></p>
-  <p>Portfolio personnel — frontend animé présentant projets, expériences et stack.</p>
-  <p>
-    <a href="https://github.com/LINDECKER-Charles/MonPortfolio"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-    <a href="https://charles-lindecker.com"><img src="https://img.shields.io/badge/Live-charles--lindecker.com-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-  </p>
-</td>
-<td width="50%" valign="top">
-  <h3>&nbsp;PVZ Console Manager</h3>
-  <p><sub><code>TypeScript · Node.js · Python · npm</code></sub></p>
-  <p>Outil CLI publié sur npm pour les contributeurs PVZ Fusion — revue de traductions, suivi des assets et automatisation du workflow.</p>
-  <p>
-    <a href="https://github.com/LINDECKER-Charles/PVZ-Fuzion-ConsolManager"><img src="https://img.shields.io/badge/GitHub-Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-    <a href="https://www.npmjs.com/package/@charles_lindecker/pvzf-console"><img src="https://img.shields.io/badge/npm-pvzf--console-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
-  </p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://league-of-data-base.com/fr/"><img src="./assets/fr/btn-app.svg" height="46" alt="L’application — League Of Data Base"></a>&nbsp;
+  <a href="https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal"><img src="./assets/fr/btn-code.svg" height="46" alt="Le code — League Of Data Base"></a>
+</p>
 
-<br />
+<p align="center">
+  <picture><source media="(max-width: 700px)" srcset="./assets/fr/sep-outils.mobile.svg"><img src="./assets/fr/sep-outils.svg" width="100%" alt="Outils"></picture>
+</p>
 
-## &nbsp;Autres projets
+<p align="center">
+  <a href="https://github.com/LINDECKER-Charles/gup"><picture><source media="(max-width: 700px)" srcset="./assets/fr/card-gup.mobile.svg"><img src="./assets/fr/card-gup.svg" width="100%" alt="gup (Outils) — Un outil open source. Mettre à jour en une commande tout ce qui est installé sur un poste de développeur. 153 sources, sur Windows, macOS et Linux. Auteur et mainteneur. Open source, sur npm."></picture></a>
+</p>
 
-<table width="100%">
-<tr>
-<td valign="top">
-<ul>
-<li><b>MoneyFollow</b> &nbsp;<sub><code>Java · Spring Boot · Angular · TypeScript · PostgreSQL</code></sub><br />Suivi de finances personnelles avec backend Spring Boot et frontend Angular. &nbsp;<a href="https://github.com/LINDECKER-Charles/MoneyFollow">repo</a></li>
-<li><b>Web Image Formateur</b> &nbsp;<sub><code>Node.js · TypeScript · npm</code></sub><br />Utilitaire CLI pour convertir des images et générer des formats alternatifs adaptés au web. &nbsp;<a href="https://github.com/LINDECKER-Charles/Web-Image-Formateur">repo</a> · <a href="https://www.npmjs.com/package/@charles_lindecker/img-convertor">npm</a></li>
-<li><b>Symfony SEOKit</b> &nbsp;<sub><code>Symfony · PHP</code></sub><br />Kit plug-and-play pour gagner du temps sur le SEO dans les projets Symfony. &nbsp;<a href="https://github.com/LINDECKER-Charles/SEOKIT-Symfony">repo</a></li>
-<li><b>League of Data Base</b> &nbsp;<sub><code>Symfony · PHP · Riot API</code></sub><br />Transforme les données brutes de parties en insights lisibles. &nbsp;<a href="https://github.com/LINDECKER-Charles/LeagueOfDataBaseFinal">repo</a></li>
-<li><b>Glossaire Quest</b> &nbsp;<sub><code>Angular · .NET · TypeScript</code></sub><br />Application gamifiée pour apprendre le vocabulaire technique.</li>
-<li><b>ShrekSophone</b> &nbsp;<sub><code>JavaScript</code></sub><br />Script troll qui vide une page web et affiche Shrek dansant au saxophone en plein écran. &nbsp;<a href="https://github.com/LINDECKER-Charles/ShrekSophone">repo</a></li>
-</ul>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/LINDECKER-Charles/gup"><img src="./assets/fr/btn-code.svg" height="46" alt="Le code — gup"></a>&nbsp;
+  <a href="https://www.npmjs.com/package/@charles_lindecker/gup"><img src="./assets/fr/btn-npm.svg" height="46" alt="npm — gup"></a>&nbsp;
+  <a href="https://lindecker-charles.github.io/gup/"><img src="./assets/fr/btn-site.svg" height="46" alt="Le site — gup"></a>
+</p>
 
-<br />
+<p align="center">
+  <a href="https://github.com/LINDECKER-Charles/App.GitHealth"><picture><source media="(max-width: 700px)" srcset="./assets/fr/card-githealth.mobile.svg"><img src="./assets/fr/card-githealth.svg" width="100%" alt="GitHealth (Outils) — Une application de bureau. Voir quelles branches Git comptent encore, sans toucher au dépôt : tout se passe en local. 231 ms pour situer 1 000 branches par rapport à main. Conçu et développé seul. Open source, version 0.2.0."></picture></a>
+</p>
 
-## &nbsp;Compétences & Formation
+<p align="center">
+  <a href="https://github.com/LINDECKER-Charles/App.GitHealth"><img src="./assets/fr/btn-code.svg" height="46" alt="Le code — GitHealth"></a>
+</p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<p><b>Ingénierie</b></p>
-<p><sub>Conception d'APIs REST · architecture modulaire / microservices · SQL avancé · CI/CD · OWASP, 2FA, rate limiting · TDD (PHPUnit / Xunit) · analyse fonctionnelle</sub></p>
-</td>
-<td width="50%" valign="top">
-<p><b>Formation & Certifications</b></p>
-<p><sub><b>RNCP 5</b> Développeur Web & Mobile · Elan Formation (2025)<br />
-<b>BUT R&T</b> · IUT Nancy-Barbois (2023–2024)<br />
-<b>FreeCodeCamp</b> — C#, JS Algorithms, APIs, Relational DB, Python<br />
-<b>Frontend Mentor</b> — 18 projets · 310 pts<br />
-<b>Langues</b> — Français (natif) · Anglais (B1)</sub></p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <picture><source media="(max-width: 700px)" srcset="./assets/fr/sep-ia.mobile.svg"><img src="./assets/fr/sep-ia.svg" width="100%" alt="IA"></picture>
+</p>
 
-<br />
+<p align="center">
+  <a href="https://charles-lindecker.com"><picture><source media="(max-width: 700px)" srcset="./assets/fr/card-karl.mobile.svg"><img src="./assets/fr/card-karl.svg" width="100%" alt="Karl Scraper (IA) — Automatiser des tâches. Garder une copie locale de mes tâches, la donner à lire à des agents IA et automatiser le chemin d’un ticket jusqu’à sa pull request. 18 actions et 14 déclencheurs. Conçu et développé seul. Outil personnel, en service sur mon poste. Dépôt privé."></picture></a>
+</p>
 
-## &nbsp;Où me trouver
+<p align="center">
+  <a href="https://charles-lindecker.com"><picture><source media="(max-width: 700px)" srcset="./assets/fr/card-sillage.mobile.svg"><img src="./assets/fr/card-sillage.svg" width="100%" alt="Sillage (IA) — Orchestrer des agents IA. Confier un long travail de développement à plusieurs agents IA sans perdre la main, et le reprendre après une coupure. 579 agents lancés sur neuf exécutions réelles. Conçu et développé seul. Outil personnel, en usage sur ma machine. Dépôt privé."></picture></a>
+</p>
 
-- **Portfolio** — [charles-lindecker.com](https://charles-lindecker.com)
-- **LinkedIn** — [linkedin.com/in/charles-lindecker](https://www.linkedin.com/in/charles-lindecker)
-- **Email** — charles.lindecker@outlook.fr
+<p align="center">
+  <a href="https://charles-lindecker.com"><picture><source media="(max-width: 700px)" srcset="./assets/fr/card-relais.mobile.svg"><img src="./assets/fr/card-relais.svg" width="100%" alt="Relais (IA) — Encadrer des agents IA. Un seul point d’accès local aux agents de ma machine : il isole leurs comptes, décide de leurs permissions et garde leurs conversations. 1 011 décisions de permission en trois jours. Conçu et développé seul. Outil personnel, en usage sur ma machine. Dépôt privé."></picture></a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,50:1d4ed8,100:22c55e" alt="Footer" />
+<p align="center">
+  <picture><source media="(max-width: 700px)" srcset="./assets/fr/note-releve.mobile.svg"><img src="./assets/fr/note-releve.svg" width="100%" alt="Chiffres au 13 octobre 2026 ; GitHealth, Karl Scraper et Sillage au 14 octobre ; Relais au 23 septembre."></picture>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/charles-lindecker/"><picture><source media="(max-width: 700px)" srcset="./assets/fr/path.mobile.svg"><img src="./assets/fr/path.svg" width="100%" alt="Le parcours : architecte logiciel chez B-Hive depuis août 2026 ; mentor à la Mission Locale d’Altkirch (janvier à juin 2026) ; formateur en développement web chez Elan Formation (décembre 2025 à mai 2026), tous ses apprenants titrés ; développeur indépendant, Dev-Mates, depuis novembre 2025 ; lead et mainteneur du pôle francophone de PvZ Fusion depuis octobre 2025 ; stage de développeur full stack chez ATIS Solutions (août à septembre 2025)."></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LINDECKER-Charles?tab=repositories"><picture><source media="(max-width: 700px)" srcset="./assets/fr/arsenal.mobile.svg"><img src="./assets/fr/arsenal.svg" width="100%" alt="L’arsenal. Au quotidien : C#, .NET, Angular, TypeScript, PostgreSQL, Docker, Git, GitHub Actions. Pratiqué : JavaScript, PHP, Python, Java, Rust, SQL ; HTML, CSS, Sass, Tailwind CSS, RxJS, GSAP, React ; ASP.NET Core, SignalR, Node.js, Symfony, Spring Boot, Axum, Tokio ; EF Core, MySQL, SQLite, Doctrine, SQLx ; Ionic, Capacitor ; agents Claude et Codex, serveurs MCP, synthèse vocale ; xUnit, Vitest, PHPUnit, Playwright, axe-core ; Linux, Nginx, Caddy, OpenTelemetry, Prometheus."></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://www.freecodecamp.org/hexanti"><picture><source media="(max-width: 700px)" srcset="./assets/fr/grimoire.mobile.svg"><img src="./assets/fr/grimoire.svg" width="100%" alt="Le grimoire. Titre professionnel Développeur Web et Web Mobile (DWWM, RNCP niveau 5) obtenu chez Elan Formation en 2025, programme bouclé en un mois ; programme CDA (RNCP niveau 6) étudié en complément, titre non passé ; 12 certifications freeCodeCamp et Microsoft entre 2024 et 2026 ; 20 solutions sur Frontend Mentor. Avant : piscine de 42 (2024), BUT Réseaux et Télécoms, physique-chimie, BUT Informatique, et la programmation en autodidacte vers 13 ans."></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://www.freecodecamp.org/hexanti"><img src="./assets/fr/btn-certs.svg" height="46" alt="Certificats — freeCodeCamp"></a>&nbsp;
+  <a href="https://www.frontendmentor.io/profile/LINDECKER-Charles"><img src="./assets/fr/btn-fm.svg" height="46" alt="Frontend Mentor"></a>
+</p>
+
+<p align="center">
+  <a href="mailto:charles.lindecker@outlook.fr"><picture><source media="(max-width: 700px)" srcset="./assets/fr/end.mobile.svg"><img src="./assets/fr/end.svg" width="100%" alt="« Seul on va vite, à plusieurs on va loin : la qualité et la sincérité des échanges démultiplient les résultats. » Une idée à confronter, une équipe à faire grandir, un sujet technique à creuser : la discussion commence ici."></picture></a>
+</p>
+
+<p align="center">
+  <a href="mailto:charles.lindecker@outlook.fr"><img src="./assets/fr/btn-talk.svg" height="46" alt="Discutons : charles.lindecker@outlook.fr"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/charles-lindecker/"><img src="./assets/fr/btn-linkedin.svg" height="46" alt="LinkedIn"></a>&nbsp;
+  <a href="https://charles-lindecker.com"><img src="./assets/fr/btn-portfolio.svg" height="46" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LINDECKER-Charles/gup/blob/main/.github/CONTRIBUTING.md"><img src="./assets/fr/btn-contribGup.svg" height="46" alt="Contribuer — gup"></a>&nbsp;
+  <a href="https://github.com/LINDECKER-Charles/PVZ-Fuzion-ConsolManager/blob/main/CONTRIBUTING.md"><img src="./assets/fr/btn-contribConsole.svg" height="46" alt="Contribuer — Console Manager"></a>
+</p>
+
+<p align="center">
+  <a href="https://charles-lindecker.com"><picture><source media="(max-width: 700px)" srcset="./assets/fr/footer.mobile.svg"><img src="./assets/fr/footer.svg" width="100%" alt="Que le bon sang guide votre chemin. La nuit retombe sur Yharnam."></picture></a>
+</p>
+
+<p align="center">
+  <picture><source media="(max-width: 700px)" srcset="./assets/fr/note-credits.mobile.svg"><img src="./assets/fr/note-credits.svg" width="100%" alt="Thème inspiré de Bloodborne : Bloodborne © Sony Interactive Entertainment / FromSoftware, projet de fan sans affiliation. Captures de Bloodborne Legendary Run. Polices Shippori Mincho B1 et Spectral (SIL OFL)."></picture>
+</p>
